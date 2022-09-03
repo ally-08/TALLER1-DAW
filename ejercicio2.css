@@ -1,0 +1,25 @@
+body{
+    padding: 5px;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#formulario{
+    background-color: #86FFBA;
+    width: 350px;
+    height: 400px;
+    text-align: center;
+    padding-top: 5px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+button{
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 25px;
+    background-color: #6484F7;
+}
+button:hover{
+    background-color: #87A0F8;
+    cursor: pointer;
+}
